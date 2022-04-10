@@ -1,4 +1,14 @@
 # cook your dish here
+
+'''
+Input:
+2
+1 10
+7 10
+Output:
+4
+None
+'''
 limits = []
 max_nos = 0
 t = int(input())
